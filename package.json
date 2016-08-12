@@ -1,0 +1,23 @@
+{
+  "name": "lambda-rx",
+  "version": "1.0.0",
+  "description": "lambda redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaptationio/Lambda-rx.git"
+  },
+  "keywords": [
+    "lambda",
+    "redux"
+  ],
+  "author": "adaptation io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adaptationio/Lambda-rx/issues"
+  },
+  "homepage": "https://github.com/adaptationio/Lambda-rx#readme"
+}
